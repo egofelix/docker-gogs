@@ -1,4 +1,4 @@
-FROM gogs/gogs
+FROM gogs/gogs:0.12.0
 
 MAINTAINER EgoFelix <docker@egofelix.de>
 
